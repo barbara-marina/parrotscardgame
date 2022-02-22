@@ -1,3 +1,3 @@
 # Parrot Card Game
 
-#### Acesso : https://barbara-marina.github.io/projeto4-parrotscardgame/index.html
+#### Acesso : https://barbara-marina.github.io/parrotscardgame/
